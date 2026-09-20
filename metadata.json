@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Effect Academy Platformasi",
+  "description": "Ingliz tili o\u0027rganuvchilari uchun mukammal ta\u0027lim platformasi: O\u0027quvchi, O\u0027qituvchi va Admin panellari, Anki spaced repetition flashcardlar, Kahoot o\u0027yinlari, darajali darslar va vazifalar.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

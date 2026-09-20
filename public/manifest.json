@@ -1,0 +1,18 @@
+{
+  "short_name": "EduEnglish",
+  "name": "EduEnglish Platformasi - Ingliz Tili Ta'lim Tizimi",
+  "description": "Ingliz tili o'rganuvchilari uchun Anki flashcardlar, Kahoot o'yinlari, darslar va vazifalar platformasi",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["education", "productivity"]
+}
